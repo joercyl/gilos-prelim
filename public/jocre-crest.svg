@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 450" role="img" aria-labelledby="title">
+  <title id="title">JOCRE University crest</title>
+  <path fill="#780e1c" stroke="#c8943d" stroke-width="10" d="M200 18C151 54 103 72 55 81v137c0 105 59 171 145 211 86-40 145-106 145-211V81C297 72 249 54 200 18Z"/>
+  <path fill="none" stroke="#f0d184" stroke-width="7" d="M200 38c-45 32-91 49-131 57v123c0 93 50 152 131 192 81-40 131-99 131-192V95c-40-8-86-25-131-57Z"/>
+  <g fill="#f4dfa0" stroke="#c8943d" stroke-width="2">
+    <path d="m200 67 15 91 59-47-44 61 91 17-91 15 44 61-59-47-15 91-15-91-59 47 44-61-91-15 91-17-44-61 59 47Z"/>
+    <circle cx="200" cy="189" r="12" fill="#c8943d"/>
+  </g>
+  <g fill="#f7e8b8" stroke="#c8943d" stroke-width="5" stroke-linejoin="round">
+    <path d="M196 245c-27-30-61-39-91-39l-23 91c42-4 79 7 114 33Z"/>
+    <path d="M204 245c27-30 61-39 91-39l23 91c-42-4-79 7-114 33Z"/>
+    <path d="M82 307c40-7 79 0 118 24 39-24 78-31 118-24l-8 13c-40-5-75 3-110 27-35-24-70-32-110-27Z"/>
+  </g>
+  <g fill="none" stroke="#c8943d" stroke-width="12" stroke-linecap="round">
+    <path d="M59 116c-25 42-29 91-15 136 13 43 43 78 83 101"/>
+    <path d="M341 116c25 42 29 91 15 136-13 43-43 78-83 101"/>
+    <path d="M38 176c-5 51 12 97 47 133"/>
+    <path d="M362 176c5 51-12 97-47 133"/>
+  </g>
+</svg>
