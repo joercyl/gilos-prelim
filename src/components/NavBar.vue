@@ -18,6 +18,9 @@
       <router-link to="/admissions">Admissions</router-link>
       <router-link to="/contact">Contact</router-link>
       <router-link to="/portal-login">Portal Login</router-link>
+      <router-link to="/sample-data">Sample Data</router-link>
+      <router-link to="/sample-methods">Sample Methods</router-link>
+      <router-link to="/sample-vmodel">Live Profile</router-link>
     </div>
   </nav>
 </template>
